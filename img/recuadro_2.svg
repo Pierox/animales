@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="766px" height="174px" viewBox="0 0 766 174" enable-background="new 0 0 766 174" xml:space="preserve">
+<g>
+	<rect x="2" y="3" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="748" height="39"/>
+	<rect x="2" y="42" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="748" height="39"/>
+	<rect x="2" y="81" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="748" height="39"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="198" y1="4" x2="198" y2="120"/>
+	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="480" y1="4" x2="480" y2="120"/>
+	<text transform="matrix(1 0 0 1 41.7939 71.6479)" font-family="'MyriadPro-Regular'" font-size="25">Licuadora</text>
+	<text transform="matrix(1 0 0 1 43.666 30.7778)" font-family="'MyriadPro-Bold'" font-size="26">Artefacto</text>
+	<text transform="matrix(1 0 0 1 224.4268 30.7778)" font-family="'MyriadPro-Bold'" font-size="26">Energía que recibe</text>
+	<text transform="matrix(1 0 0 1 489.2471 30.7778)" font-family="'MyriadPro-Bold'" font-size="26">Energía transformada</text>
+	<text transform="matrix(1 0 0 1 41.7939 108.6484)" font-family="'MyriadPro-Regular'" font-size="25">Cocina</text>
+	<text transform="matrix(1 0 0 1 225.7754 69.6479)" font-family="'MyriadPro-Regular'" font-size="25">Eléctrica</text>
+	<text transform="matrix(1 0 0 1 225.7754 107.6484)" font-family="'MyriadPro-Regular'" font-size="25">Química</text>
+	<text transform="matrix(1 0 0 1 503.7939 69.6479)" font-family="'MyriadPro-Regular'" font-size="25">Mecánica</text>
+	<text transform="matrix(1 0 0 1 503.7939 107.6484)" font-family="'MyriadPro-Regular'" font-size="25">Térmica</text>
+</g>
+</svg>
